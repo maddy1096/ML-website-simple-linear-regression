@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 30 02:51:06 2020
 
-@author: Mudhurika
-"""
 
 import requests
 
