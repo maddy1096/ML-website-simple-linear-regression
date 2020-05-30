@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Salary prediction tutorial</title>
+    
+</head>
+
+<body>
+ <div>
+	<h1>Salary prediction</h1>
+
+         <form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="year" placeholder="year" required="required" />
+        
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict salary</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+
+</body>
+</html>
