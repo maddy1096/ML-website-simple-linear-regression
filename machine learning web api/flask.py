@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 30 02:27:23 2020
 
-@author: Mudhurika
-"""
 
 
 import numpy as np
