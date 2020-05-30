@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 30 02:24:32 2020
 
-@author: Mudhurika
-"""
 
 # Simple Linear Regression
 
